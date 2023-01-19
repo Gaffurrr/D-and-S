@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 085c5348bd72f2e4eab511f868c5a468
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: 67a322f822ccaec4aa951ace25162b21
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 295404ed55477d24baadc3c343c64292
+  - enabled: 1
+    path: Assets/Scenes/DevilWon.unity
+    guid: f404e1f165630dc4095ff507c712093d
+  - enabled: 1
+    path: Assets/Scenes/SinnersWon.unity
+    guid: 16baffb28e18cc54994fd31f40d757e3
+  m_configObjects: {}
